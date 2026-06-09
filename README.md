@@ -3,5 +3,11 @@
 This repository contains my Python mini projects and practice programs.
 
 ## Projects
-- Calculator
-- Profile Card
+
+### 1. Calculator
+- **Concepts used:** Variables, Input, Arithmetic operators
+- **File:** basic calculator.py
+
+### 2. Profile Card
+- **Concepts used:** Variables, Input, int() conversion
+- **File:** Profilecard.py
