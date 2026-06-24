@@ -11,3 +11,7 @@ This repository contains my Python mini projects and practice programs.
 ### 2. Profile Card
 - **Concepts used:** Variables, Input, int() conversion
 - **File:** Profilecard.py
+
+### 3. Genscope
+- **Concepts used:** Conditional statements, Input
+- **Files:** Genscope.py
