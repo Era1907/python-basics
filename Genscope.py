@@ -1,6 +1,7 @@
 name = input("Enter your name: ")
 age = int(input("Enter your age: "))
 current_year = int(input("Enter current year: "))
+current_month = str(input("Enter current month: "))
 
 birth_year = current_year - age
 
@@ -10,7 +11,7 @@ print(f"Your birth year is approx: {birth_year}")
 print("-----------------------------\n")
 
 # validation
-if age < 0:
+if age <= 0:
     print("❌ Invalid age. Time traveler detected?")
 elif age > 120:
     print("👀 Bro are you immortal or what?")
